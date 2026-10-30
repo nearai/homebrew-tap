@@ -3,8 +3,8 @@
 class Rts < Formula
   desc "Launcher for sandboxed opencode sessions on mvm microVMs"
   homepage "https://github.com/nearai/nearai-red-sandbox"
-  url "https://github.com/nearai/nearai-red-sandbox/releases/download/v0.1.0/rts-0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "104e514db8005096cb5bddf86071f119cad4286c5e63717b295dd3dd3f3ae928"
+  url "https://github.com/nearai/nearai-red-sandbox/releases/download/v0.1.1/rts-0.1.1-aarch64-apple-darwin.tar.gz"
+  sha256 "ca46368e8f55b489a67092f6be33fd2e4adc16c36040b6fab12a1b63556f6535"
   license "Apache-2.0"
 
   depends_on arch: :arm64
